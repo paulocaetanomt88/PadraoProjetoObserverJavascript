@@ -9,4 +9,4 @@ ter typescript instalado com o comando: npm install typescript
 rodar o comando dentro da pasta do repositorio:
 npx tsc observer.js -w
 
-Veja também os diagramas
+Veja também o diagrama Observer.png
