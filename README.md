@@ -1,4 +1,4 @@
-# Padrao de Projeto Observer com Javascript
+# Padrão de Projeto Observer com Javascript
 Estudo do padrão de projeto Observer com Javascript
 
 Para testar esse código é necessário:
